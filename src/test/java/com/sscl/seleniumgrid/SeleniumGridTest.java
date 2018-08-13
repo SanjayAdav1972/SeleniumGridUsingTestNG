@@ -29,7 +29,7 @@ public class SeleniumGridTest {
 
 		// start application
 		driver.get("https://github.com/SanjayAdav1972/"); // I'm opening my GitHub page
-		driver.manage().window().maximize();
+		//driver.manage().window().maximize();
 		
 		// get the title and print the same
 		System.out.println("Page title is " + driver.getTitle());

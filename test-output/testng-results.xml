@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="49387" started-at="2018-08-13T14:18:17Z" finished-at="2018-08-13T14:19:06Z">
+  <suite name="Suite" duration-ms="709372" started-at="2018-08-13T14:43:45Z" finished-at="2018-08-13T14:55:34Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="49387" started-at="2018-08-13T14:18:17Z" finished-at="2018-08-13T14:19:06Z">
+    <test name="Test" duration-ms="709372" started-at="2018-08-13T14:43:45Z" finished-at="2018-08-13T14:55:34Z">
       <class name="com.sscl.seleniumgrid.SeleniumGridTest">
-        <test-method status="PASS" signature="runOnChrome()[pri:0, instance:com.sscl.seleniumgrid.SeleniumGridTest@5f3a4b84]" name="runOnChrome" duration-ms="49324" started-at="2018-08-13T14:18:17Z" finished-at="2018-08-13T14:19:06Z">
+        <test-method status="PASS" signature="runOnChrome()[pri:0, instance:com.sscl.seleniumgrid.SeleniumGridTest@5f3a4b84]" name="runOnChrome" duration-ms="709341" started-at="2018-08-13T14:43:45Z" finished-at="2018-08-13T14:55:34Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runOnChrome -->
